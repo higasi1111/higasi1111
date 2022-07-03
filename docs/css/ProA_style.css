@@ -1,0 +1,163 @@
+body{
+	background: #eaf1d5;
+	margin: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* ページ全体の背景色などを設定 */
+main {
+}
+
+/* ページの見出し領域の背景色，画像などを設定（id属性で設定） */
+/* 画像のファイルへのパスはこのCSSファイルのあるフォルダから見て，どこにあるかの相対パスとなる */
+#bg-head {
+	background: #eaf1d5 url(../photos/header_back_ground.jpg) repeat-x;
+}
+
+/* class属性で設定した領域で背景を青系（#99e0ff）にする */
+.bg-lightblue{
+	background: #559858;
+}
+
+.border-dashed{
+	border: 1pt;
+	border-style: dashed;
+}
+
+.border-radius{
+	border: 1pt;
+  border-radius: 10px;
+}
+
+.box-shadow{
+	box-shadow: 2px 2px 4px gray; /*影の幅 右 下　ぼかしの幅　影の色(カラーコードも可） */
+}
+
+/* 地図の表示領域の設定 */
+#map_here{
+	float: left;
+	clear: left;
+	width: 340px;
+	height: 240px;
+}
+
+#setumei{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a:visited{
+	color: purple;
+}
+
+div.gaiyou{
+	width:800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div.gaiyou>figure>img{
+	width: 800px;
+	height: 550px;
+}
+
+article{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.card{
+	width: 800px;
+	background-color:white;
+	margin: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+}
+h4{
+	font-size: 20px;
+	color: white;
+	margin: 0px;
+}
+h5{
+	font-size: 20px;
+	color: #48814b;
+	margin: 20px;
+}
+h6{
+	color: white;
+	font-size: 3px;
+}
+p{	font-size: 16px;
+	width: 700px;
+	margin: 10px;
+}
+img.eventf{
+	float: right;
+	margin: 10px;
+	width: 300px;
+	height: 230px;
+}
+
+table{
+	background-color: white;
+	border-collapse: collapse;
+}
+table,th,td{
+	border:	solid 1px black;
+}
+th{
+	background-color: lightblue;
+}
+td#a{
+	background-color: lightpink;
+}
+td#b{
+	background-color: #e2a852;
+}
+td#c{
+	background-color: #aba0ca;
+}
+td#d{
+	background-color: lightgreen;
+}
+td#e{
+	background-color: #f4eb8e;
+}
+
+
+th,td{
+	width: 160px;
+	text-align: center;
+}
+
+footer{
+	background-color: #343a40;
+	margin: 0px;
+	height: 250px;
+}
+div.footerblock{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.col-md-7,div.col-md-5{
+	padding-bottom: 30px;
+}
+
+div#carousel1{
+	width:400px;
+	padding-left:15px;
+	padding-bottom:30px;
+}
+
+div#carousel1 img{
+	width: 400px;
+	height:300px;
+}
+
+.none {
+	list-style: none
+}
