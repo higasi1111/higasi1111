@@ -1,0 +1,84 @@
+{ "introduction_obj_list": 
+	[
+		{
+			"title": "小田原市立小田原駅東口図書館",
+			"image_file": "odawara_gaikan",
+			"abstract": null,
+			"score": 4.6,
+			"image_file1": "odawara_naikan",
+			"image_file2": "odawara_system",
+			"image_file3": "odawara_system_2",
+			"image_file4": "odawara_desk",
+			"lat": "35.25458406344777",
+			"lng": "139.1551738128009",
+			"detail": "小田原駅の東口から出てすぐの、ミナカという建物の6階にある図書館です。ミナカは完成してから1年ほどしか立っておらず、(2021年10月現在)図書館も全体的に綺麗な印象で、設備も充実しています。図書館において重要な本の貸出についても、台の上に置くだけで本を識別するシステムがあるため、セルフで簡単に借りることができます。本の返却は図書館入口横と、駅内のアークロード市民窓口に返却ポストがあります。"
+		},
+
+		{
+			"title": "茅ケ崎市立図書館",
+			"image_file": "chigasaki_gaikan_2",
+			"abstract": "茅ケ崎駅の近くにある図書館",
+			"score": 3.9,
+			"image_file1": "chigasaki_gaikan",
+			"image_file2": "chigasaki_naikan",
+			"image_file3": "chigasaki_naikan_5",
+			"image_file4": "chigasaki_naikan_2",
+			"image_file5": "chigasaki_naikan_3",
+			"image_file6": "chigasaki_naikan_4",
+			"image_file7": "chigasaki_gaikan_3",
+			"lat": "35.32651715747411",
+			"lng": "139.4059578991372",
+			"detail": "茅ヶ崎駅から徒歩３分の近さにある図書館です。当初は８万冊程の蔵書数でしたが、現在では約４０万冊の蔵書を有しており、CDの貸出や子供コーナーなども出来たため子供連れでも過ごしやすい図書館です。自習室は二階にあり、学生の方も子供たちの声を気にせず勉強できます。"
+		},
+
+		{
+			"title": "藤沢市総合市民図書館",
+			"image_file": "hujisawa_gaikan_2",
+			"abstract": "湘南台駅や湘南台公園の近くにある市民図書館",
+			"score": 4.0,
+			"image_file1": "hujisawa_naikan_1",
+			"image_file2": "hujisawa_naikan_2",
+			"image_file3": "hujisawa_naikan_5",
+			"image_file4": "hujisawa_naikan_3",
+			"image_file5": "hujisawa_naikan_4",
+			"image_file6": "hujisawa_gaikan",
+			"image_file7": "hujisawa_desk",
+			"lat": "35.395716186768496",
+			"lng": "139.4730561816149",
+			"detail": "湘南台駅や湘南台公園の近くにある市民図書館。藤沢市の図書館サービス網の中心として機能する図書館です。豊富な蔵書によるレファレンス機能を持っています。面積はかなり広く、蔵書数は約54万冊に及びます。更に調査研究室やCD・VDコーナー、子供図書館などもあります。蔵書検索は文教大学附属図書館と同じであるopacで目当ての本を探すことができます。"
+		},
+
+		{
+			"title": "湘南大庭市民図書館",
+			"image_file": "shonan_gaikan",
+			"abstract": "湘南大庭市民センターの隣にある図書館",
+			"score": 4.3,
+			"image_file1": "shonan_naikan_5",
+			"image_file2": "shonan_naikan",
+			"image_file3": "shonan_naikan_4",
+			"image_file4": "shonan_naikan_6",
+			"image_file5": "shonan_naikan_3",
+			"image_file6": "shonan_gaikan_2",
+			"image_file7": "shonan_gaikan_3",
+			"image_file8": "shonan_naikan_5",
+			"image_file9": "shonan_naikan_7",
+			"lat": "35.364568728063354",
+			"lng": "139.4462067403338",
+			"detail": "湘南大庭市民センターの隣にある図書館です。市内でも緑豊かな地区で、緑の保全に関心の高いことから、植物・園芸・ガーデニング・自然保護などをあつめた「みどりの本コーナー」があります。関連機関や病院と連携して、医学や健康づくりについての情報を集めて紹介している「医療情報コーナー」などもあり、地域と連携したコラボコーナーが見どころの図書館です！取り扱い図書の中に漫画本があったり、図書のほかにCD、カセット、レコード、ビデオ、DVDが借りられるのも特徴です♪"
+		},
+
+		{
+			"title": "横浜磯子図書館",
+			"image_file": "yokohama_gaikan",
+			"abstract": "磯子駅の近くにある図書館",
+			"score": 3.8,
+			"image_file1": "yokohama_naikan",
+			"image_file2": "yokohama_naikan_2",
+			"image_file3": "yokohama_naikan_3",
+			"lat": "35.40265625468524",
+			"lng": "139.61855591297032",
+			"detail": "この図書館は横浜市磯子区の区役所と公会堂と同じ建物内の地下一階にあり、磯子駅からの距離も近いためアクセス面で優れています。蔵書数が157,440冊あり、そのうちの45,363冊が児童書(H30.3.31現在)となっていたり、読み聞かせなどのイベントが開催されたりするので、幼稚園児や小学生が楽しむことができるのが特徴となっています。"
+
+		}
+	]
+}
